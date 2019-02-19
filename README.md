@@ -18,6 +18,6 @@ Create a link between Git folders and hybris:
 
 ## Endpoints
 
-https://electronics.local:9002/keyruswarmupstorefront/
-https://apparel-uk.local:9002/keyruswarmupstorefront/
-https://apparel-de.local:9002/keyruswarmupstorefront/
+- https://electronics.local:9002/keyruswarmupstorefront/
+- https://apparel-uk.local:9002/keyruswarmupstorefront/
+- https://apparel-de.local:9002/keyruswarmupstorefront/
