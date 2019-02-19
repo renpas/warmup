@@ -6,9 +6,9 @@ This is the Warm Up for a hybris project.
 
 Add the following to hosts file:
 
-127.0.0.1       apparel-uk.local
-127.0.0.1       apparel-de.local
-127.0.0.1       electronics.local
+- 127.0.0.1       app- arel-uk.local
+- 127.0.0.1       apparel-de.local
+- 127.0.0.1       electronics.local
 
 Extract hybris **1811** into a folder.
 
