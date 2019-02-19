@@ -13,8 +13,8 @@ Add the following to hosts file:
 Extract hybris **1811** into a folder.
 
 Create a link between Git folders and hybris:
-- ln -s ~/**GIT_REPOSITORY_FOLDER**/Warmup/config/ ~/**HYBRIS_FOLDER**/config
-- ln -s ~/**GIT_REPOSITORY_FOLDER**/Warmup/src/ ~/**HYBRIS_FOLDER**/bin/custom
+- ln -s ~/**GIT_REPOSITORY_FOLDER**/config/ ~/**HYBRIS_FOLDER**/config
+- ln -s ~/**GIT_REPOSITORY_FOLDER**/src/ ~/**HYBRIS_FOLDER**/bin/custom
 
 ## Endpoints
 
