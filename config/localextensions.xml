@@ -7,7 +7,71 @@
 		-->
 
 		<path dir="${HYBRIS_BIN_DIR}" />
-		
+
+
+		<!-- Hybris provided -->
+		<extension name='acceleratorwebservicesaddon' />
+		<extension name='orderselfserviceaddon' />
+		<extension name='customersupportbackoffice' />
+		<extension name='customerticketingaddon' />
+		<extension name='commerceorgsamplesaddon' />
+		<extension name='rulebuilderbackoffice' />
+		<extension name='couponbackoffice' />
+		<extension name='droolsruleengineservices' />
+		<extension name='couponfacades' />
+		<extension name='promotionenginesamplesaddon' />
+		<extension name='cmswebservices' />
+		<extension name='smarteditwebservices' />
+		<extension name='cmssmarteditwebservices' />
+		<extension name='permissionswebservices' />
+		<extension name='smarteditaddon' />
+		<extension name='cmssmartedit' />
+		<extension name='cmsbackoffice' />
+		<extension name='previewpersonalizationweb' />
+		<extension name='personalizationcmsweb' />
+		<extension name='personalizationsmartedit' />
+		<extension name='personalizationpromotionssmartedit' />
+		<extension name='personalizationsampledataaddon' />
+		<extension name='personalizationpromotions' />
+		<extension name='personalizationpromotionsweb' />
+		<extension name='personalizationservicesbackoffice' />
+		<extension name='personalizationpromotionsbackoffice' />
+		<extension name='personalizationcmsbackoffice' />
+		<extension name='personalizationsearchbackoffice' />
+		<extension name='personalizationsearchsmartedit' />
+		<extension name='personalizationsearchweb' />
+		<extension name='personalizationsearchsamplesaddon' />
+		<extension name='textfieldconfiguratortemplatebackoffice' />
+		<extension name='textfieldconfiguratortemplateaddon' />
+		<extension name='assistedservicestorefront' />
+		<extension name='assistedservicewebservices' />
+		<extension name='assistedservicepromotionaddon' />
+		<extension name='pcmbackofficesamplesaddon' />
+		<extension name='mediaconversion' />
+		<extension name='mediaconversionbackoffice' />
+		<extension name="addonsupport"/>
+		<extension name='adaptivesearchsolr' />
+		<extension name='adaptivesearchbackoffice' />
+		<extension name='adaptivesearchsamplesaddon' />
+		<extension name='adaptivesearchwebservices' />
+		<extension name='commerceservicesbackoffice' />
+		<extension name='solrfacetsearchbackoffice' />
+
+		<!-- exclusive local dev environments -->
+		<extension name="solrserver"/>
+
+		<!-- OMS Extensions -->
+		<extension name='ordermanagementaddon' />
+		<extension name='orderselfserviceaddon' />
+		<extension name='ordermanagementwebservices' />
+
+		<extension name='warehousing' />
+		<extension name='warehousingbackoffice' />
+		<extension name='warehousingwebservices' />
+		<extension name='consignmenttrackingbackoffice' />
+
+
+		<!-- Custom Extensions -->
 		<extension name="keyruswarmupfulfilmentprocess"/>
 		<extension name="keyruswarmupcore"/>
 		<extension name="keyruswarmupfacades"/>
@@ -15,7 +79,7 @@
 		<extension name="keyruswarmuptest"/>
 		<extension name="keyruswarmupinitialdata"/>
 		<extension name="keyruswarmupbackoffice"/>
-										
+
 		<!-- ext-platform-optional -->
 
 												
