@@ -56,6 +56,8 @@
 		<extension name='adaptivesearchwebservices' />
 		<extension name='commerceservicesbackoffice' />
 		<extension name='solrfacetsearchbackoffice' />
+        <extension name='smartedit' />
+        <extension name='previewwebservices' />
 
 		<!-- exclusive local dev environments -->
 		<extension name="solrserver"/>
